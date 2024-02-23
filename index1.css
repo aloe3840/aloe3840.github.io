@@ -1,0 +1,73 @@
+body{
+    background-color: pink;
+    
+}
+
+.back-box{
+    width: 90%;
+    height: 400px;
+    max-width: 800px;
+    min-width: 700px;
+    margin: auto;
+    background-color: white;
+    margin-top: 100px;
+    border: 2px dotted black;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+
+.name-tel{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.id-password{
+    text-align: center;
+    margin-bottom: 40px;
+}
+
+.introduce-myself{
+    text-align: center;
+}
+
+.name{
+    width: 100px;
+    height: 30px; 
+    margin-right: 40px;
+    border-radius: 8px;
+}
+
+.tel{
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+.id{
+    width: 150px;
+    height: 30px;
+    margin-right: 40px;
+    border-radius: 8px;
+}
+
+.password{
+    width: 200px;
+    height: 30px;
+    border-radius: 8px;
+}
+
+textarea{
+    width: 300px;
+    height: 100px;
+}
+
+.membership{
+    width: 100px;
+    height: 50px;
+    font-size: 20px;
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    margin-top: 30px;
+    border-radius: 10px;
+}
